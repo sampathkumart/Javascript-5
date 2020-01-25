@@ -1,0 +1,9 @@
+1.check node version
+node -v
+
+2.check npm version npm->node package manager
+npm - v
+
+3.ls-> list files
+
+4.cd -> change directory
