@@ -8,7 +8,7 @@ console.log(final);
 // Equality
 
 // trible equal check both value and type
-// double equal check value
+// double equal check value only
 
 const a = 100 === 100;
 console.log(a);
