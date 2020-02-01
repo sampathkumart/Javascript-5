@@ -1,12 +1,9 @@
-//function declarations
-
-//anonymous function
-function(name){
-    return `hi ${name}`;
+//function declaration
+function declaration(king, queen) {
+  return king + queen;
 }
 
 // function expression
-
 const hello = function(age) {
   return `${age}`;
 };
@@ -58,3 +55,8 @@ function follow() {
 button.addEventListener("click", function() {
   console.log("great man");
 });
+
+// Timer callback
+setTimeout(function() {
+  console.log("hi");
+}, 2000);
