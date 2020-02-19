@@ -12,7 +12,7 @@ const lenovo = [
 ];
 
 function player(cric) {
-  return cric.id === 10;
+  return cric.id === 7;
 }
 
 const cricket = lenovo.find(player);
