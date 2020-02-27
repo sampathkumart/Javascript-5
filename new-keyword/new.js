@@ -12,3 +12,5 @@ function bioData(name, runs, age) {
 
 const info = new bioData("Dhoni", 12000, 38);
 console.log(info);
+
+console.log(info.runs);
